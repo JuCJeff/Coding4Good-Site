@@ -1,1 +1,1 @@
-CORGi
+This is the test branch for building the frontend for Coding for Good organization.
